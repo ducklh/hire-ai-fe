@@ -1,0 +1,17 @@
+{
+  "trailingComma": "es5",
+  "tabWidth": 2,
+  "semi": true,
+  "singleQuote": false,
+  "endOfLine": "auto",
+  "printWidth": 120,
+  "arrowParens": "avoid",
+  "overrides": [
+    {
+      "files": "router.ts",
+      "options": {
+        "printWidth": 160
+      }
+    }
+  ]
+}
